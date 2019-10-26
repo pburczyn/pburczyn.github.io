@@ -3,3 +3,7 @@
 Test
 
 `inline code`
+
+```javascript
+const xyz = 'abc';
+```
